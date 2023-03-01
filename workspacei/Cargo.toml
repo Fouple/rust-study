@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "xdev",
+    "common",
+]
